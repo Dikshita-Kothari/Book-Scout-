@@ -1,0 +1,326 @@
+[
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Science Fiction",
+    "description": "A comedic science fiction adventure following the misadventures of Arthur Dent.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "description": "The epic saga of the Foundation, a group of scientists who strive to shorten a dark age.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "description": "A science fiction epic set on a desert planet, exploring themes of politics, religion, and ecology.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "genre": "Science Fiction",
+    "description": "A young boy is recruited to train in combat to save Earth from an alien invasion.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "description": "An astronaut becomes stranded on Mars and must use his ingenuity to survive.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "genre": "Science Fiction",
+    "description": "A science fiction novel that blends cyberpunk, virtual reality, and ancient Sumerian mythology.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "description": "A classic novel exploring societal pressures and romantic relationships in 19th-century England.",
+    "isFavorite": true,
+    "readingStatus": "Finished",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "description": "A witty novel about a well-meaning but often misguided young woman who interferes in the romantic lives of her friends.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Romance",
+    "description": "The story of a young woman's journey of self-discovery and her passionate love for Mr. Rochester.",
+    "isFavorite": false,
+    "readingStatus": "Currently Reading",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "genre": "Romance",
+    "description": "A novel about the lives of four sisters growing up during the American Civil War.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "description": "A story about the enduring power of love, even in the face of adversity.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "genre": "Romance",
+    "description": "A story about an unlikely bond formed between a young woman and a paralyzed man.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "description": "A powerful story of racial injustice and childhood innocence in the American South.",
+    "isFavorite": false,
+    "readingStatus": "Currently Reading",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "description": "A coming-of-age story about a teenage boy's experiences with alienation and phoniness.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "description": "A novel about wealth, love, and the American Dream in the Jazz Age.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "Fiction",
+    "description": "A satirical novel about a boy's journey down the Mississippi River with a runaway slave.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Fiction",
+    "description": "A novel narrated by Death, about a young girl living in Nazi Germany who finds solace in stolen books.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "genre": "Fiction",
+    "description": "A psychological thriller about a group of classics students who become involved in a murder.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "description": "An epic high-fantasy novel about a quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+    "isFavorite": true,
+    "readingStatus": "Finished",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "description": "The beginning of the magical journey of Harry Potter.",
+    "isFavorite": true,
+    "readingStatus": "Finished",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "description": "The first book in the 'A Song of Ice and Fire' series, a complex tale of power struggles and betrayal.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasy",
+    "description": "The first book in 'The Kingkiller Chronicle,' about the legendary figure Kvothe.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "genre": "Fantasy",
+    "description": "A historical fantasy novel set in 19th-century England, where magic is reintroduced.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "genre": "Fantasy",
+    "description": "An epic fantasy standalone novel about a world of queens, dragons, and a divided world.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "description": "A chilling dystopian novel about a totalitarian regime that controls every aspect of human life.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian",
+    "description": "A dystopian novel set in a totalitarian society where women are oppressed.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "description": "A classic dystopian novel set in a technologically advanced future society.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "description": "A dystopian novel where books are banned and firemen burn any that are found.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Dystopian",
+    "description": "A father and son struggle to survive in a post-apocalyptic world.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "genre": "Dystopian",
+    "description": "A dystopian satire about a young man's experiences with violence and rehabilitation.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "description": "An epic poem about the journey of Odysseus back to his home after the Trojan War.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "description": "An epic poem that tells the story of the Trojan War.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Beowulf",
+    "author": "Unknown",
+    "genre": "Epic Poetry",
+    "description": "An Old English epic poem about a hero who battles monsters.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Epic of Gilgamesh",
+    "author": "Unknown",
+    "genre": "Epic Poetry",
+    "description": "One of the earliest known works of literature, from ancient Mesopotamia.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "The Aeneid",
+    "author": "Virgil",
+    "genre": "Epic Poetry",
+    "description": "A Latin epic poem that tells the story of Aeneas, a Trojan who traveled to Italy and became the ancestor of the Romans.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "genre": "Epic Poetry",
+    "description": "An epic poem by John Milton, published in 1667, tells the Biblical story of the Fall of Man.",
+    "isFavorite": false,
+    "readingStatus": "To Read",
+    "coverImage": "https://m.media-amazon.com/images/I/81xVpyjUC0L.jpg"
+  }
+]
